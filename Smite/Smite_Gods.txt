@@ -1,0 +1,114 @@
+Achilles,Greek,Melee,Physical,Warrior,Average,5500,200,2018-02-27
+Agni,Hindu,Ranged,Magical,Mage,Hard,1250,200,2012-05-31
+Ah Muzen Cab,Maya,Ranged,Physical,Hunter,Average,5500,200,2013-11-07
+Ah Puch,Maya,Ranged,Magical,Mage,Average,5500,200,2015-04-28
+Amaterasu,Japanese,Melee,Physical,Warrior,Average,5500,200,2016-01-12
+Anhur,Egyptian,Ranged,Physical,Hunter,Average,5500,200,2012-08-03
+Anubis,Egyptian,Ranged,Magical,Mage,Easy,5500,200,2012-05-31
+Ao Kuang,Chinese,Melee,Magical,Mage,Hard,5500,200,2014-11-19
+Aphrodite,Greek,Ranged,Magical,Mage,Hard,5500,200,2013-03-13
+Apollo,Greek,Ranged,Physical,Hunter,Easy,5500,200,2013-03-28
+Arachne,Greek,Melee,Physical,Assassin,Average,5500,200,2012-05-31
+Ares,Greek,Melee,Magical,Guardian,Easy,0,0,2012-10-04
+Artemis,Greek,Ranged,Physical,Hunter,Average,0,0,2012-05-31
+Artio,Celtic,Melee,Magical,Guardian,Average,5500,200,2017-08-01
+Athena,Greek,Melee,Magical,Guardian,Easy,5500,200,2013-06-05
+Awilix,Maya,Melee,Physical,Assassin,Hard,5500,200,2014-12-17
+Baba Yaga,Slavic,Ranged,Magical,Mage,Average,5500,200,2020-04-21
+Bacchus,Roman,Melee,Magical,Guardian,Average,5500,200,2012-11-19
+Bakasura,Hindu,Melee,Physical,Assassin,Easy,5500,200,2012-07-20
+Baron Samedi,Voodoo,Ranged,Magical,Mage,Hard,5500,200,2018-06-26
+Bastet,Egyptian,Melee,Physical,Assassin,Easy,5500,200,2012-05-31
+Bellona,Roman,Melee,Physical,Warrior,Average,0,0,2015-02-25
+Cabrakan,Maya,Melee,Magical,Guardian,Average,5500,200,2014-08-19
+Camazotz,Maya,Melee,Physical,Assassin,Average,5500,200,2016-10-11
+Cerberus,Greek,Melee,Magical,Guardian,Easy,5500,200,2018-01-09
+Cernunnos,Celtic,Ranged,Physical,Hunter,Average,5500,200,2017-03-14
+Chaac,Maya,Melee,Physical,Warrior,Average,5500,200,2013-12-18
+Chang'e,Chinese,Ranged,Magical,Mage,Average,5500,200,2013-07-24
+Chernobog,Slavic,Ranged,Physical,Hunter,Hard,5500,200,2018-05-15
+Chiron,Greek,Ranged,Physical,Hunter,Easy,5500,200,2015-11-17
+Chronos,Greek,Ranged,Magical,Mage,Hard,5500,200,2013-07-10
+Cthulhu,Great Old Ones,Melee,Magical,Guardian,Average,5500,200,2020-06-16
+Cu Chulainn,Celtic,Melee,Physical,Warrior,Average,5500,200,2017-06-20
+Cupid,Roman,Ranged,Physical,Hunter,Easy,1500,200,2012-08-17
+Da Ji,Chinese,Melee,Physical,Assassin,Average,5500,200,2017-05-24
+Danzaburou,Japanese,Ranged,Physical,Hunter,Average,5500,200,2020-12-15
+Discordia,Roman,Ranged,Magical,Mage,Average,5500,200,2017-11-06
+Erlang Shen,Chinese,Melee,Physical,Warrior,Average,5500,200,2016-07-06
+Eset,Egyptian,Ranged,Magical,Mage,Average,5500,200,2013-05-15
+Fafnir,Norse,Melee,Magical,Guardian,Average,5500,200,2016-06-07
+Fenrir,Norse,Melee,Physical,Assassin,Average,5500,200,2013-05-01
+Freya,Norse,Melee,Magical,Mage,Average,5500,200,2012-10-18
+Ganesha,Hindu,Melee,Magical,Guardian,Average,5500,200,2017-04-25
+Geb,Egyptian,Melee,Magical,Guardian,Average,5500,200,2014-01-16
+Gilgamesh,Babylonian,Melee,Physical,Warrior,Average,11000,200,2021-04-20
+Guan Yu,Chinese,Melee,Physical,Warrior,Average,0,0,2012-06-29
+Hachiman,Japanese,Ranged,Physical,Hunter,Easy,5500,200,2017-09-13
+Hades,Greek,Ranged,Magical,Mage,Easy,2000,200,2012-05-31
+He Bo,Chinese,Ranged,Magical,Mage,Easy,5500,200,2012-05-31
+Heimdallr,Norse,Ranged,Physical,Hunter,Hard,5500,200,2019-12-11
+Hel,Norse,Ranged,Magical,Mage,Hard,5500,200,2012-05-31
+Hera,Greek,Ranged,Magical,Mage,Average,5500,200,2018-10-15
+Hercules,Roman,Melee,Physical,Warrior,Easy,5500,200,2013-01-09
+Horus,Egyptian,Melee,Physical,Warrior,Average,5500,200,2019-04-30
+Hou Yi,Chinese,Ranged,Physical,Hunter,Hard,5500,200,2015-01-14
+Hun Batz,Maya,Melee,Physical,Assassin,Easy,5500,200,2012-05-31
+Izanami,Japanese,Ranged,Physical,Hunter,Average,5500,200,2016-08-30
+Janus,Roman,Ranged,Magical,Mage,Average,5500,200,2014-05-28
+Jing Wei,Chinese,Ranged,Physical,Hunter,Easy,5500,200,2016-04-12
+Jormungandr,Norse,Ranged,Magical,Guardian,Average,5500,200,2019-03-05
+Kali,Hindu,Melee,Physical,Assassin,Average,5500,200,2012-05-31
+Khepri,Egyptian,Melee,Magical,Guardian,Average,5500,200,2015-08-04
+King Arthur,Arthurian,Melee,Physical,Warrior,Average,5500,200,2019-01-07
+Kukulkan,Maya,Ranged,Magical,Mage,Easy,0,0,2012-05-31
+Kumbhakarna,Hindu,Melee,Magical,Guardian,Easy,5500,200,2014-04-16
+Kuzenbo,Japanese,Melee,Magical,Guardian,Easy,5500,200,2017-02-14
+Loki,Norse,Melee,Physical,Assassin,Easy,5500,200,2012-11-02
+Medusa,Greek,Ranged,Physical,Hunter,Easy,5500,200,2015-04-01
+Mercury,Roman,Melee,Physical,Assassin,Average,5500,200,2013-10-02
+Merlin,Arthurian,Ranged,Magical,Mage,Hard,5500,200,2019-02-11
+Mulan,Chinese,Melee,Physical,Warrior,Average,5500,200,2020-02-25
+Ne Zha,Chinese,Melee,Physical,Assassin,Average,5500,200,2013-04-17
+Neith,Egyptian,Ranged,Physical,Hunter,Easy,0,0,2013-02-13
+Nemesis,Greek,Melee,Physical,Assassin,Average,0,0,2014-02-06
+Nike,Greek,Melee,Physical,Warrior,Easy,5500,200,2016-12-06
+Nox,Roman,Ranged,Magical,Mage,Average,5500,200,2014-10-29
+Nu Wa,Chinese,Ranged,Magical,Mage,Easy,5500,200,2013-12-05
+Odin,Norse,Melee,Physical,Warrior,Easy,5500,200,2012-05-31
+Olorun,Yoruba,Ranged,Magical,Mage,Average,5500,200,2019-06-25
+Osiris,Egyptian,Melee,Physical,Warrior,Hard,5500,200,2014-05-06
+Pele,Polynesian,Melee,Physical,Assassin,Average,5500,200,2018-08-06
+Persephone,Greek,Ranged,Magical,Mage,Hard,5500,200,2019-08-20
+Poseidon,Greek,Ranged,Magical,Mage,Easy,5500,200,2013-02-28
+Ra,Egyptian,Ranged,Magical,Mage,Average,0,0,2012-05-31
+Raijin,Japanese,Ranged,Magical,Mage,Average,5500,200,2016-02-16
+Rama,Hindu,Ranged,Physical,Hunter,Average,5500,200,2014-06-24
+Ratatoskr,Norse,Melee,Physical,Assassin,Easy,5500,200,2015-06-02
+Ravana,Hindu,Melee,Physical,Assassin,Average,5500,200,2015-06-30
+Scylla,Greek,Ranged,Magical,Mage,Easy,5500,200,2014-03-05
+Serqet,Egyptian,Melee,Physical,Assassin,Average,5500,200,2014-07-15
+Set,Egyptian,Melee,Physical,Assassin,Average,5500,200,2019-04-30
+Skadi,Norse,Ranged,Physical,Hunter,Hard,5500,200,2016-03-15
+Sobek,Egyptian,Melee,Magical,Guardian,Easy,5500,200,2012-05-31
+Sol,Norse,Ranged,Magical,Mage,Hard,5500,200,2015-10-06
+Sun Wukong,Chinese,Melee,Physical,Warrior,Average,5500,200,2013-10-23
+Susano,Japanese,Melee,Physical,Assassin,Hard,5500,200,2016-05-10
+Sylvanus,Roman,Ranged,Magical,Guardian,Average,5500,200,2014-10-01
+Terra,Roman,Melee,Magical,Guardian,Hard,5500,200,2016-08-02
+Thanatos,Greek,Melee,Physical,Assassin,Average,5500,200,2013-09-18
+The Morrigan,Celtic,Ranged,Magical,Mage,Very Hard,5500,200,2017-01-10
+Thor,Norse,Melee,Physical,Assassin,Hard,0,0,2012-09-06
+Thoth,Egyptian,Ranged,Magical,Mage,Average,5500,200,2016-11-08
+Tiamat,Babylonian,Ranged,Magical,Mage,Hard,5500,200,2021-02-23
+Tsukuyomi,Japanese,Melee,Physical,Assassin,Average,5500,200,2020-08-11
+Tyr,Norse,Melee,Physical,Warrior,Hard,5500,200,2013-08-07
+Ullr,Norse,Ranged,Physical,Hunter,Hard,5500,200,2014-03-19
+Vamana,Hindu,Melee,Physical,Warrior,Average,5500,200,2012-05-31
+Vulcan,Roman,Ranged,Magical,Mage,Average,5500,200,2013-01-30
+Xbalanque,Maya,Ranged,Physical,Hunter,Average,5500,200,2012-12-21
+Xing Tian,Chinese,Melee,Magical,Guardian,Average,5500,200,2015-09-01
+Yemoja,Yoruba,Ranged,Magical,Guardian,Average,5500,200,2019-10-15
+Ymir,Norse,Melee,Magical,Guardian,Easy,0,0,2012-05-31
+Zeus,Greek,Ranged,Magical,Mage,Average,5500,200,2012-05-31
+Zhong Kui,Chinese,Ranged,Magical,Mage,Easy,5500,200,2013-08-28
